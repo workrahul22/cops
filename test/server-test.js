@@ -40,4 +40,4 @@ it("findServer function", function(done) {
     .catch((err) => {
         done(err);
     })
-}, 8000);
+}, 10000);
