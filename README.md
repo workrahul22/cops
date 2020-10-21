@@ -4,7 +4,7 @@
 
 - Install Package
   ```Javascript
-    $ npm install cops
+    $ npm install ps-demo
   ```
 - Example
   ```Javascript
