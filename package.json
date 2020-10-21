@@ -2,7 +2,7 @@
   "name": "cops",
   "version": "1.0.0",
   "description": "Node modules to find the least priority online server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
