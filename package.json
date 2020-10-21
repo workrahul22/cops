@@ -1,5 +1,5 @@
 {
-  "name": "cops",
+  "name": "ps-demo",
   "version": "1.0.0",
   "description": "Node modules to find the least priority online server",
   "main": "server.js",
@@ -8,6 +8,10 @@
   },
   "author": "Rahul Ranjan",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/workrahul22/cops.git"
+  },
   "dependencies": {
     "axios": "^0.20.0"
   },

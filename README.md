@@ -8,7 +8,7 @@
   ```
 - Example
   ```Javascript
-    const cops = require('cops');
+    const cops = require('ps-demo');
     
     const servers = [
       { url: "http://doesNotExist.boldtech.co",priority: 1},
@@ -29,3 +29,7 @@
     $ npm install
     $ npm run test
   ```
+
+## Npm Registry Link
+  https://www.npmjs.com/package/ps-demo
+
