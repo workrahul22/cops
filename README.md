@@ -24,7 +24,7 @@
 
 ## Run Unit Test
   ```Javascript
-    $ git clone 
+    $ git clone https://github.com/workrahul22/cops.git
     $ cd cops
     $ npm install
     $ npm run test
